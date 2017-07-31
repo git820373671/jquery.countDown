@@ -107,10 +107,18 @@
       <updated>1501460787822</updated>
       <workItem from="1501460789322" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="倒计时">
+      <created>1501462546054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1501462546054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43000" />
+    <option name="totallyTimeSpent" value="66000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -140,6 +148,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="倒计时" />
+    <option name="LAST_COMMIT_MESSAGE" value="倒计时" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
